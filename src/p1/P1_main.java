@@ -8,7 +8,6 @@ public class P1_main {
     }
 
     public static int squared(int x) {
-        x = (x + 1) * (x + 1);
-        return x;
+        return (x + 1) * (x + 1);
     }
 }
